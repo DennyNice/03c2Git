@@ -7,4 +7,5 @@ public class KlasaGlowna {
     public String toString() {
         return "Testowa{" + "pole" +pole + "/"+ '}';
     }
+    
 }
